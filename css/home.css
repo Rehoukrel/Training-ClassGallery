@@ -25,4 +25,30 @@ header p{
     font-size: 24px;
 }
 
+main{
+    font-family: 'Segoe UI light', Tahoma, Geneva, Verdana, sans-serif;
+}
 
+.preface{
+    margin: 5% 0;
+}
+.preface .flex-container{
+    display: flex;
+    flex-direction: column;
+
+    text-align: center;
+}
+
+.preface .flex-container div{
+    margin: 15% 0;
+}
+
+.arise .container{
+    width: 100%;
+    height: 700px;
+
+    background-image: url(./../assets/img/rsz_arise.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
