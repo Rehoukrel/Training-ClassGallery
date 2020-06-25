@@ -1,6 +1,3 @@
-
-nav a{
-    color: #333;
-    float: right;
-    margin: 3% 4%;
+.nav-wrapper{
+    margin: 0 3rem !important;
 }
